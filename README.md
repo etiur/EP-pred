@@ -21,5 +21,5 @@ The different sequences are ranked based on the applicability domain or how simi
 ## Funding
 EP-pred was conducted  the auspices of the FuturEnzyme and Oxipro Projects funded by the European Union’s Horizon 2020 Research and Innovation Programme under Grant Agreement No. 101000327 and 101000607.  
 Links to the projects:
-FuturEnzyme: https://zenodo.org/communities/futurenzyme
-Oxipro: https://zenodo.org/communities/oxipro/
+* FuturEnzyme: https://zenodo.org/communities/futurenzyme
+* Oxipro: https://zenodo.org/communities/oxipro/
