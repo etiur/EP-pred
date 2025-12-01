@@ -18,4 +18,8 @@ The different sequences are ranked based on the applicability domain or how simi
 > * Wang J, Yang B et al. POSSUM: a bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles. Bioinformatics 2017;33(17):2756-2758. DOI: 10.1093/bioinformatics/btx302.  
 > * Zhen Chen, Pei Zhao, Fuyi Li, André Leier, Tatiana T Marquez-Lago, Yanan Wang, Geoffrey I Webb, A Ian Smith, Roger J Daly*, Kuo-Chen Chou*, Jiangning Song*, iFeature: a Python package and web server for features extraction and selection from protein and peptide sequences. Bioinformatics, 2018, 34(14): 2499–2502. https://doi.org/10.1093/bioinformatics/bty140  
 
-
+## Funding
+EP-pred was conducted  the auspices of the FuturEnzyme and Oxipro Projects funded by the European Union’s Horizon 2020 Research and Innovation Programme under Grant Agreement No. 101000327 and 101000607.
+Links to the projects:
+FuturEnzyme: https://zenodo.org/communities/futurenzyme
+Oxipro: https://zenodo.org/communities/oxipro/
